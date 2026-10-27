@@ -1,0 +1,6 @@
+[server]
+# Max size per uploaded file, in MB
+maxUploadSize = 25
+
+[browser]
+gatherUsageStats = false

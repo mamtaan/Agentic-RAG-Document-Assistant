@@ -1,0 +1,21 @@
+# Core app
+streamlit
+python-dotenv
+pydantic
+
+# Agent workflow
+langgraph
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM, search, embeddings, vector store
+langchain-groq
+langchain-tavily
+langchain-huggingface
+sentence-transformers
+langchain-chroma
+chromadb
+
+# Document parsing
+pypdf
