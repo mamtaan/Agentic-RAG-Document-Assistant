@@ -2,8 +2,7 @@
 
 Upload your PDF, TXT or Markdown files and chat with them. The assistant answers from **your documents**, shows **citations with page numbers**, and automatically **falls back to web search** when your documents don't contain the answer.
 
-![Screenshot](docs/screenshot.png)
-<!-- Add a screenshot at docs/screenshot.png -->
+
 
 ##  Features
 
